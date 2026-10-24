@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences
+GET,GET /owners/{id},CatchResponseError('HTTP 405'),17
+GET,GET /owners,CatchResponseError('HTTP 405'),18

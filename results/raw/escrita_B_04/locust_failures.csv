@@ -1,0 +1,5 @@
+Method,Name,Error,Occurrences
+GET,GET /vets,CatchResponseError('HTTP 405'),895
+GET,GET /owners/{id},CatchResponseError('HTTP 405'),910
+GET,GET /owners,CatchResponseError('HTTP 405'),981
+POST,POST /owners,CatchResponseError('HTTP 503'),1749

@@ -1,0 +1,14 @@
+# Digests das imagens usadas na campanha de 22/10/2026.
+services:
+  config-server:
+    image: springcommunity/spring-petclinic-config-server@sha256:db14626a92afda51963a29804fe24329b7711467ffdc7dc2157fe800abc3f756
+  discovery-server:
+    image: springcommunity/spring-petclinic-discovery-server@sha256:c3cb50137cf7f2f61ac7f3f878f93b79a3b71213360a0d4550a4f5ab4418c342
+  customers-service:
+    image: springcommunity/spring-petclinic-customers-service@sha256:ab1181fed9b1c23a74a442c1c1625f1ab34b4e0e928192cb5db77eef3f75b14a
+  vets-service:
+    image: springcommunity/spring-petclinic-vets-service@sha256:963f480587e365b7ef17fdbcce5267ac3aa3436f649852cc7eb4f85da86abab4
+  visits-service:
+    image: springcommunity/spring-petclinic-visits-service@sha256:307ae223b722d13b7a0e35ef34e93352ab118687d9a0e189565392244031a1c7
+  api-gateway:
+    image: springcommunity/spring-petclinic-api-gateway@sha256:250c96946936d623d4ded3e1987fd76d61a66a3125913e5eee6556f2a80d5862
