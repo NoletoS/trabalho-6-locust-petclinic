@@ -175,14 +175,13 @@ Os CSVs de cada execução em `results/raw/` são a evidência bruta. Os número
 
 <!-- ANALYSIS_END -->
 
-## Evidências e vídeo
+## Evidências
 
 | Item | Estado |
 | --- | --- |
 | CSVs das 60 rodadas | Disponíveis em `results/raw/` |
 | Tabelas e gráficos | Disponíveis em `results/` |
 | Descrição do ambiente em `results/environment.md` | Disponível em `results/environment.md` |
-| Vídeo demonstrativo de 4 a 6 minutos | **Link: inserir após gravação e publicação** |
 | Repositório GitHub público com este conteúdo | [trabalho-6-locust-petclinic](https://github.com/NoletoS/trabalho-6-locust-petclinic) |
 
 O roteiro de gravação está em `scripts/video_checklist.md`. Antes da entrega no SIGAA em **23/10/2026**, confirme que os 60 diretórios de rodada, a análise, o vídeo acessível e o link público do repositório estão presentes. O único item a postar no SIGAA é o link do repositório.
